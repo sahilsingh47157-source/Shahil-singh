@@ -505,7 +505,7 @@
                [EDIT SECTION 1: APNI PHOTO]
                Neeche 'src="..."' ke andar apni photo ka direct URL paste karein.
                ================================================================= -->
-          <img src="https://ibb.co/m5V4KKyp" alt="Profile" class="profile-img">
+          <img src="https://i.ibb.co/6c2rVf7V/IMG-20260408-WA0004.jpg" alt="Profile" class="profile-img">
         </div>
       </div>
 
@@ -525,7 +525,7 @@
         <a href="https://www.instagram.com/sha_hil8756?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==" target="_blank" class="social-btn">📸 Instagram</a>
         
         <a href="https://www.linkedin.com/in/shahil-singh-94742b3b9?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" class="social-btn">💼 LinkedIn</a>
-        <a href="mailto:your-email@example.com" class="social-btn">✉️ Say Hello</a>
+        <a href="mailtp: shahilsingh504gmail.com" class="social-btn">✉️ Say Hello</a>
       </div>
 
       <!-- =================================================================
@@ -557,20 +557,31 @@
       <h2 class="section-title">😊😘 My Life Journey</h2>
       
       <div class="timeline">
-        
-        <!-- Journey Milestone 1 -->
+        <!-- Journey Milestone 1 With Photo -->
+    <div class="timeline-item">
+     <div class="timeline-card">
+      <div class="timeline-year-month"> 2026-june to ----</div>
+       <div class="timeline-title">College life </div>
+      <p class="timeline-desc">college life ongoing.</p>
+    
+    <!-- PHOTO YAHAN ADD KAREIN -->
+    <img src="https://i.ibb.co/6c3b8T3x/IMG-20260408-WA0004.jpg" 
+         alt="Milestone Highlight" 
+         class="timeline-photo">
+     </div>
+    </div>
+        <!-- Journey Milestone 2-->
         <div class="timeline-item">
           <div class="timeline-card">
-            <div class="timeline-year">2026 — Present, My college life(SSCBS)</div>
+            <div class="timeline-year-month">2025 — june 2026, My college life(SSCBS)</div>
             <div class="timeline-title">Interactive Systems & Business Strategy</div>
             <p class="timeline-desc">Developing clean web portfolios, exploring modern deployment setups, and diving into case studies & data analytics.</p>
-            <img src="https://ibb.co/dJ1XVYkR"
-                  alt="Milestone Highlight"
-                  class="timeline-photo">
+            
+                  
           </div>
         </div>
 
-        <!-- Journey Milestone 2 -->
+        <!-- Journey Milestone 3 -->
         <div class="timeline-item">
           <div class="timeline-card">
             <div class="timeline-year">2025 — 2026</div>
@@ -579,7 +590,7 @@
           </div>
         </div>
 
-        <!-- Journey Milestone 3 -->
+        <!-- Journey Milestone 4 -->
         <div class="timeline-item">
           <div class="timeline-card">
             <div class="timeline-year">2024 — 2025</div>
@@ -588,7 +599,7 @@
           </div>
         </div>
         
-      <!-- journey Milestone 4-->
+      <!-- journey Milestone 5-->
         <div class="timeline-item">
           <div class="timeline-card">
            <div class="timeline-year">2023 — past life </div>

@@ -203,13 +203,13 @@
     <header class="hero">
       <div class="avatar">S</div>
       <h1>Shakti</h1>
-      <p class="tagline">Creator & Tech Enthusiast</p>
-      <p class="bio">Passionate about building digital experiences, exploring creative media, and solving technical challenges.</p>
-      <a href="mailto:your-email@example.com" class="cta-btn">Get In Touch</a>
+      <p class="tagline">tech and ecommerce reserch</p>
+      <p class="bio">i love math but  i challenge to my mind adopt new course and sharpen mind ❤️❤️❤️ .</p>
+      <a href="mailto:your-email@example.com" class="cta-btn"> Get my journey h</a>
     </header>
 
     <section>
-      <h2 class="section-title">My Journey</h2>
+      <h2 class="section-title">My Journey ❤️ kajal </h2>
       <div class="timeline">
         <div class="timeline-item">
           <div class="timeline-year">2026 — Present</div>
@@ -219,7 +219,8 @@
 
         <div class="timeline-item">
           <div class="timeline-year">2025 — 2026</div>
-          <div class="timeline-title">Creative Media & Digital Design</div>
+          <div class="timeline-title">Creative Media & Digital Design and meet a girl but as a friend but 2 Month after i purposed  but  she is not accepted <img width="450" height="450" alt="CatTongueGIF" src="https://github.com/user-attachments/assets/cac754d1-646a-48cb-8550-07146970c485" />
+</div>
           <p class="timeline-desc">Experimented with visual design, generative AI workflows, and cinematic poster layouts under custom branding projects.</p>
         </div>
 
@@ -255,7 +256,7 @@
     </section>
 
     <footer>
-      <p>© 2026 Shakti. Built with HTML & CSS.</p>
+      <p>© 2026 Shahil singh Built with HTML & CSS.</p>
     </footer>
   </div>
 

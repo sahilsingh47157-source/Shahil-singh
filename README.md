@@ -297,10 +297,13 @@
           <div class="timeline-year">2024 — 2025</div>
           <div class="timeline-title">Foundations & Academic Milestones</div>
           <p class="timeline-desc">Strengthened analytical foundations in science and higher mathematics, sparking an interest in code and logic.</p>
+          </div>
+          
         </div> class="time-line">
            <div class="timeline-year">2024-my born</div>
            <div class ="timeline-year"> I come from a small Tier-3 village and a humble background. i studied in a government school and i am now pursuing mu education at a government college. my jounrney has been simple but it was taught  me to dream big and keep moving forward.  
       </div>
+      
     </section>
 
     <section>

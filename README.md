@@ -268,11 +268,11 @@
     <header class="hero">
       <!-- Animated S Avatar with Ring Glow -->
       <div class="avatar">
-        <span class="avatar-letter">S❤️k</span>
+        <span class="avatar-letter">S k</span>
       </div>
 
       <!-- Animated Name -->
-      <h1 class="name-glow"> Shahil ❤️k</h1>
+      <h1 class="name-glow"> Shahil and yuraj </h1>
       <p class="tagline">Creator & Tech Enthusiast</p>
       <p class="bio">Passionate about building digital experiences, exploring creative media, and solving technical challenges.</p>
       <a href="mailto:your-email@example.com" class="cta-btn">Get In Touch</a>

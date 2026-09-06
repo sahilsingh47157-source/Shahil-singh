@@ -505,7 +505,7 @@
                [EDIT SECTION 1: APNI PHOTO]
                Neeche 'src="..."' ke andar apni photo ka direct URL paste karein.
                ================================================================= -->
-          <img src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=400&auto=format&fit=crop" alt="Profile" class="profile-img">
+          <img src="https://ibb.co/m5V4KKyp" alt="Profile" class="profile-img">
         </div>
       </div>
 
@@ -513,7 +513,7 @@
            [EDIT SECTION 2: NAAM, TAGLINE & BIO]
            Apna naam aur intro yahan change karein.
            ================================================================= -->
-      <h1 class="name-glow">Shakti</h1>
+      <h1 class="name-glow">Shahil singh </h1>
       <p class="tagline">Creative Media & Tech Enthusiast</p>
       <p class="bio">Crafting modern digital visual identities, building interactive experiences, and solving creative challenges.</p>
 
@@ -522,9 +522,9 @@
            'href="..."' mein apne Instagram, YouTube, LinkedIn ya Email links daalein.
            ================================================================= -->
       <div class="social-links">
-        <a href="https://instagram.com" target="_blank" class="social-btn">📸 Instagram</a>
-        <a href="https://youtube.com" target="_blank" class="social-btn">🎥 YouTube</a>
-        <a href="https://linkedin.com" target="_blank" class="social-btn">💼 LinkedIn</a>
+        <a href="https://www.instagram.com/sha_hil8756?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==" target="_blank" class="social-btn">📸 Instagram</a>
+        
+        <a href="https://www.linkedin.com/in/shahil-singh-94742b3b9?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" class="social-btn">💼 LinkedIn</a>
         <a href="mailto:your-email@example.com" class="social-btn">✉️ Say Hello</a>
       </div>
 
@@ -554,16 +554,19 @@
          Naya saal add karne ke liye poore <div class="timeline-item">...</div> ko copy-paste karein.
          ================================================================= -->
     <section>
-      <h2 class="section-title">🌱 My Life Journey</h2>
+      <h2 class="section-title">😊😘 My Life Journey</h2>
       
       <div class="timeline">
         
         <!-- Journey Milestone 1 -->
         <div class="timeline-item">
           <div class="timeline-card">
-            <div class="timeline-year">2026 — Present</div>
+            <div class="timeline-year">2026 — Present, My college life(SSCBS)</div>
             <div class="timeline-title">Interactive Systems & Business Strategy</div>
             <p class="timeline-desc">Developing clean web portfolios, exploring modern deployment setups, and diving into case studies & data analytics.</p>
+            <img src="https://ibb.co/dJ1XVYkR"
+                  alt="Milestone Highlight"
+                  class="timeline-photo">
           </div>
         </div>
 
@@ -584,6 +587,15 @@
             <p class="timeline-desc">Built strong problem-solving discipline through chemistry, mathematics, and logical reasoning.</p>
           </div>
         </div>
+        
+      <!-- journey Milestone 4-->
+        <div class="timeline-item">
+          <div class="timeline-card">
+           <div class="timeline-year">2023 — past life </div>
+           <div class="timeline-title">Starting the Creative Journey and serious life </div>
+           <p class="timeline-desc">I come from a small Tier-3 village and a humble background. I’m currently studying at a government college. I used to be a careless and directionless boy, but in 2023, my life changed when I started seeing my father’s hard work and sacrifices. That became my turning point. Since then, I’ve become more serious, focused, and determined to build a better future.</p>
+     </div>
+    </div>
 
       </div>
     </section>

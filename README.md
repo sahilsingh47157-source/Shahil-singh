@@ -300,10 +300,11 @@
 
         <div class="timeline-item">
            <div class="timeline-year">2024-my born</div>
-           <div class ="timeline-year"> I come from a small Tier-3 village and a humble background. i studied in a government school and i am now pursuing mu education at a government college. my jounrney has been simple but it was taught  me to dream big and keep moving forward.  
+           <div class ="timeline-title">My past life</div>
+           <p I come from a small Tier-3 village and a humble background. i studied in a government school and i am now pursuing mu education at a government college. my jounrney has been simple but it was taught  me to dream big and keep moving forward.my school friend =(deepak,lackey,Rohit,vikash future ias , and all my friends ).</p> 
       </div>
       
-    </section>
+   
 
     <section>
       <h2 class="section-title">Featured Highlights</h2>

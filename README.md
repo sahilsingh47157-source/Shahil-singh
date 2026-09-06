@@ -271,7 +271,7 @@
       </div>
 
       <!-- Animated Name -->
-      <h1 class="name-glow"> Shahil and yuraj </h1>
+      <h1 class="name-glow"> Shahil </h1>
       <p class="tagline">Creator & Tech Enthusiast</p>
       <p class="bio">Passionate about building digital experiences, exploring creative media, and solving technical challenges.</p>
       <a href="mailto:your-email@example.com" class="cta-btn">Get In Touch</a>

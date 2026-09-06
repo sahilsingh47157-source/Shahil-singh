@@ -268,11 +268,11 @@
     <header class="hero">
       <!-- Animated S Avatar with Ring Glow -->
       <div class="avatar">
-        <span class="avatar-letter">S</span>
+        <span class="avatar-letter">S❤️k</span>
       </div>
 
       <!-- Animated Name -->
-      <h1 class="name-glow">Shakti</h1>
+      <h1 class="name-glow"> Shahil ❤️k</h1>
       <p class="tagline">Creator & Tech Enthusiast</p>
       <p class="bio">Passionate about building digital experiences, exploring creative media, and solving technical challenges.</p>
       <a href="mailto:your-email@example.com" class="cta-btn">Get In Touch</a>
@@ -282,7 +282,7 @@
       <h2 class="section-title">My Journey</h2>
       <div class="timeline">
         <div class="timeline-item">
-          <div class="timeline-year">2026 — Present</div>
+          <div class="timeline-year">2026->june — Present</div>
           <div class="timeline-title">Exploring Advanced Tech & Case Studies</div>
           <p class="timeline-desc">Diving into data environments, technical problem solving, and analytical strategy projects.</p>
         </div>
@@ -325,7 +325,7 @@
     </section>
 
     <footer>
-      <p>© 2026 Shakti. All rights reserved.</p>
+      <p>© 2026 Shahil. All rights reserved.</p>
     </footer>
   </div>
 

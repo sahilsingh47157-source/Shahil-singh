@@ -653,7 +653,7 @@
       <!-- =================================================================
            [EDIT SECTION 7: FOOTER COPYRIGHT]
            ================================================================= -->
-      <p>© 2026 Shakti. Designed with passion, code & creativity.</p>
+      <p>© 2026 Shahil. Designed with passion, code & creativity.</p>
     </footer>
   </div>
 

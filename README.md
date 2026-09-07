@@ -44,7 +44,7 @@
     /* Custom Glowing Cursor */
     .cursor-dot {
       width: 8px;
-      height: 8px;
+      height: 5px;
       background: var(--neon-cyan);
       border-radius: 50%;
       position: fixed;
@@ -82,23 +82,23 @@
       width: 500px;
       height: 500px;
       border-radius: 50%;
-      filter: blur(140px);
+      filter: glow(140px);
       opacity: 0.35;
       z-index: -1;
       pointer-events: none;
-      animation: floatGlow 15s infinite alternate ease-in-out;
+      animation: floatGlow 10s infinite alternate ease-in-out;
     }
 
     .glow-1 {
       top: -150px;
       left: -150px;
-      background: radial-gradient(circle, var(--purple), transparent 70%);
+      background: radial-gradient(circle, var(--white), transparent 70%); ##
     }
 
     .glow-2 {
       bottom: -150px;
       right: -150px;
-      background: radial-gradient(circle, var(--pink), transparent 70%);
+      background: radial-gradient(circle, var(--yellow), transparent 70%);
       animation-delay: -7s;
     }
 
@@ -112,7 +112,7 @@
       position: fixed;
       top: 0;
       left: 0;
-      width: 100vw;
+      width: 110vw;
       height: 100vh;
       pointer-events: none;
       z-index: 99;
@@ -128,7 +128,7 @@
     }
 
     .wing-flapping {
-      display: inline-block;
+      display: incorve-block;
       animation: wingBeat 0.22s infinite alternate ease-in-out;
     }
 
